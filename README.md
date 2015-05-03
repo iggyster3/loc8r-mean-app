@@ -16,5 +16,5 @@ Technologies Used:
 
 Author
 =======
-Name: Richard Ighodaro
-Email: richard.ighodaro@hotmail.co.uk
+* Name: Richard Ighodaro
+* Email: richard.ighodaro@hotmail.co.uk
