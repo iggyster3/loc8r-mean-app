@@ -8,13 +8,9 @@ var homepageController = function (req, res) {
 };
 */
 
+/* GET home page. */
+
 router.get('/', ctrlMain.index);
 
-/* GET home page.
-router.get('/', function(req, res, nex) {
-  res.render('index', { title: 'Express' });
-});
-
-*/
 
 module.exports = router;
